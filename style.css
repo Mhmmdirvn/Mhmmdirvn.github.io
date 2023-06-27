@@ -3,10 +3,14 @@
   background-color: #e2edff;
 }
 
-#Galerry {
+#project {
   background-color: #e2edff;
 }
 
 section {
   padding-top: 5rem;
+}
+
+#Gallery img {
+  width: 100%;
 }
